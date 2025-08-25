@@ -1,11 +1,21 @@
-# CyberPersona
+<h1 align="center"> ＣｙｂｅｒＰｅｒｓｏｎａ </h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd6fdfc1-1799-4f3f-9284-4aab1fa9aaac" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/user-attachments/assets/591dd256-de2a-4d3e-aba9-f918e5a41dea" width="220" height="140" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/a9fc2177-93fe-4941-985b-e70f19fb4320" height="140"/>
+</p>
+
+## What It Is
 - A small experiment in structuring personality for worldbuilding and writing.
 - Really, it’s just a tool for those moments when you want a character idea and your mind goes blank.
 
 - This isn’t a test, and it’s not psychology in the clinical sense.
 - It’s a fiction-first generator that pulls from MBTI, Enneagram, and archetypal prompts to create coherent personality seeds.
 - Think of it as rolling story dice — except instead of numbers, you get a mix of motives, temperaments, and hooks.
+
 
 ## Why I made this
  I wanted a lightweight tool that:
@@ -15,13 +25,14 @@
 
 ## What it does
   Randomly combines:
-	- MBTI type (stack + temperament)
-  - Enneagram type (core fear + desire)
+	-	MBTI type (stack + temperament)
+  	- 	Enneagram type (core fear + desire)
 	-	Archetype prompt for story flavor
 	-	Light Big Five estimate (sliders for nuance)
 	-	Adds quick “hooks” like conflict style and growth edge.
 	-	Generates one persona at a time, or a batch of many.
 	-	Exports to JSON (structured) or Markdown (writer-friendly).
+
 
 ## Inspiration
 
@@ -31,6 +42,11 @@ It’s about nudging your imagination when the page is empty.
 	-	Want friction between two characters? Compare their conflict styles.
 	-	Building a whole guild, town, or court? Batch ten personas and see which ones catch your eye.
     It’s scaffolding, not a box.
+
+<p align="center">
+<img width="750" height="750" alt="Image" src="https://github.com/user-attachments/assets/b6ee4b77-f5ac-42c8-b591-e1874c98f011" />
+</p>
+
 
 ## Quickstart
 
@@ -58,9 +74,11 @@ python main.py --count 10 --seed 123 --out personas.md
 - **Big Five (est):** O:0.8 C:0.6 E:0.25 A:0.7 N:0.55  
 - **Hooks:** conflict=avoidant, growth=trusting others
 
-<img width="575" height="434" alt="Image" src="https://github.com/user-attachments/assets/ff9cd5a5-5e79-4c78-9d0a-fdb6a5a2e1f9" />
+<br>
 
+### Screenshot
 
+<img width="575" height="434" alt="Image" src="https://github.com/user-attachments/assets/af1d0969-0a09-410b-9681-b3dff8e5c9e9" />
 
 ## Boundaries & License
 
@@ -72,3 +90,9 @@ That said, a note on boundaries:
 	•	YAML-first. The data is meant to be edited, reshaped, and expanded. If something feels off, adjust it — that’s part of the process.
 
 The spirit here is simple: this is for writers, worldbuilders, and roleplayers who want a spark when the page feels cold. Nothing more, nothing less.
+
+
+
+
+
+
