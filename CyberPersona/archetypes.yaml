@@ -1,0 +1,6 @@
+archetypes:
+  - { name: Mentor,      prompt: "You teach what you needed at 15. Who seeks you out, and why now?" }
+  - { name: Rebel,       prompt: "Rules are a suggestion; which one will you break to save a friend?" }
+  - { name: Caretaker,   prompt: "You fix what others ignore. Who is your quiet responsibility?" }
+  - { name: Seeker,      prompt: "A map with one missing piece. What do you risk to find it?" }
+  - { name: Strategist,  prompt: "You see three moves ahead. What’s the trap you’re refusing to set?" }

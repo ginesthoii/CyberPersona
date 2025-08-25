@@ -1,0 +1,15 @@
+types:
+  INFJ:
+    stack: [Ni, Fe, Ti, Se]
+    temperament: NF (Idealist)
+    key_traits:
+      - visionary
+      - empathetic
+      - private
+  ENFP:
+    stack: [Ne, Fi, Te, Si]
+    temperament: NF (Idealist)
+    key_traits:
+      - curious
+      - enthusiastic
+      - scattered

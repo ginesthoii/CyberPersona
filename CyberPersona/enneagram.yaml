@@ -1,0 +1,37 @@
+types:
+  "1":
+    name: Reformer
+    core_desire: integrity
+    core_fear: corruption
+  "2":
+    name: Helper
+    core_desire: love
+    core_fear: being unwanted
+  "3":
+    name: Achiever
+    core_desire: value
+    core_fear: worthlessness
+  "4":
+    name: Individualist
+    core_desire: identity
+    core_fear: having no personal significance
+  "5":
+    name: Investigator
+    core_desire: competence
+    core_fear: incapacity
+  "6":
+    name: Loyalist
+    core_desire: security
+    core_fear: being without support
+  "7":
+    name: Enthusiast
+    core_desire: freedom
+    core_fear: deprivation
+  "8":
+    name: Challenger
+    core_desire: self-protection
+    core_fear: being controlled
+  "9":
+    name: Peacemaker
+    core_desire: harmony
+    core_fear: loss of connection
