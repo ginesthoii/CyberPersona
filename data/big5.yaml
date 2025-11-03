@@ -1,0 +1,37 @@
+# Big Five traits with descriptions and high/low examples.
+# Source: Simply Psychology – Big Five Personality Traits ([www.simplypsychology.org](https://www.simplypsychology.org/big-five-personality.html), [www.simplypsychology.org](https://www.simplypsychology.org/big-five-personality.html))
+
+Openness:
+  description: "Openness to experience reflects imagination, curiosity and appreciation for art, ideas and variety."
+  high: "Creative, adventurous, open-minded"
+  low: "Conventional, pragmatic, resistant to change"
+  sources:
+    - "Simply Psychology ([www.simplypsychology.org](https://www.simplypsychology.org/big-five-personality.html), [www.simplypsychology.org](https://www.simplypsychology.org/big-five-personality.html))"
+
+Conscientiousness:
+  description: "Conscientiousness reflects self-discipline, organisation, and reliability."
+  high: "Efficient, organised, thorough"
+  low: "Careless, spontaneous, disorganised"
+  sources:
+    - "Simply Psychology ([www.simplypsychology.org](https://www.simplypsychology.org/big-five-personality.html))"
+
+Extraversion:
+  description: "Extraversion measures sociability, assertiveness and talkativeness."
+  high: "Outgoing, energetic, assertive"
+  low: "Reserved, quiet, solitary"
+  sources:
+    - "Simply Psychology ([www.simplypsychology.org](https://www.simplypsychology.org/big-five-personality.html))"
+
+Agreeableness:
+  description: "Agreeableness describes compassion, cooperativeness and trust in others."
+  high: "Kind, sympathetic, cooperative"
+  low: "Competitive, critical, antagonistic"
+  sources:
+    - "Simply Psychology ([www.simplypsychology.org](https://www.simplypsychology.org/big-five-personality.html))"
+
+Neuroticism:
+  description: "Neuroticism reflects emotional stability and susceptibility to negative feelings."
+  high: "Anxious, moody, sensitive"
+  low: "Calm, resilient, emotionally stable"
+  sources:
+    - "Simply Psychology ([www.simplypsychology.org](https://www.simplypsychology.org/big-five-personality.html))"
