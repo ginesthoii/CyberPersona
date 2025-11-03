@@ -1,0 +1,14 @@
+# data/species.yaml
+# Fantasy/species templates.
+
+Human:
+  description: "Baseline species with diverse cultures and capabilities."
+
+Elf:
+  description: "Graceful, long‑lived beings attuned to nature and magic."
+
+Dwarf:
+  description: "Stout, hardy folk renowned for craftsmanship and resilience."
+
+Android:
+  description: "Artificial beings with advanced technology and logical processing."
