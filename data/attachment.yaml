@@ -1,0 +1,14 @@
+# data/attachment.yaml
+# Attachment style definitions.
+
+Secure:
+  description: "Comfortable with intimacy and autonomy; trusts others and maintains balance."
+
+Anxious:
+  description: "Seeks high closeness and validation; worries about abandonment."
+
+Avoidant:
+  description: "Values independence; uncomfortable with closeness and dependence."
+
+Disorganised:
+  description: "A mix of anxious and avoidant behaviours; unpredictable responses."
