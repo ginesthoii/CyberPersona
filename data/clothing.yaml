@@ -1,0 +1,55 @@
+Man:
+  Hair:
+    - Short
+    - Long
+    - Braided
+  Top:
+    - Tunic
+    - Leather Armor
+    - Cloak
+  Bottom:
+    - Pants
+    - Kilt
+    - Robes
+  Footwear:
+    - Boots
+    - Sandals
+
+Woman:
+  Hair:
+    - Long
+    - Short
+    - Braided
+    - Ponytail
+  Top:
+    - Dress
+    - Blouse
+    - Leather Armor
+    - Cloak
+  Bottom:
+    - Skirt
+    - Pants
+    - Robes
+  Footwear:
+    - Boots
+    - Sandals
+    - Heels
+
+Non-binary:
+  Hair:
+    - Short
+    - Long
+    - Buzzcut
+    - Dreadlocks
+  Top:
+    - Tunic
+    - Hoodie
+    - Armor
+  Bottom:
+    - Pants
+    - Skirt
+    - Robes
+  Footwear:
+    - Boots
+    - Sneakers
+    - Sandals
