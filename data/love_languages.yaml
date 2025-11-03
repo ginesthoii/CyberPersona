@@ -1,0 +1,17 @@
+# data/love_languages.yaml
+# Love language definitions.
+
+Words of affirmation:
+  description: "Expresses and receives love through verbal compliments and encouragement."
+
+Acts of service:
+  description: "Shows love by helping with tasks or doing helpful actions."
+
+Quality time:
+  description: "Values spending meaningful time together without distractions."
+
+Gifts:
+  description: "Feels loved through thoughtful tokens and surprises."
+
+Physical touch:
+  description: "Enjoys physical expressions of affection such as hugs and hand-holding."
