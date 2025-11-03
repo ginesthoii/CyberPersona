@@ -1,0 +1,34 @@
+Classic:
+  description: "Timeless, refined and understated; neutral colours, structured tailoring and minimal accessories."
+  sample_items:
+    - Tailored blazer
+    - Button-up shirt
+    - Leather loafers
+
+Bohemian:
+  description: "Artistic and free-spirited; flowing fabrics, earthy tones, layers and eclectic accessories."
+  sample_items:
+    - Patterned kimono
+    - Beaded necklaces
+    - Wide-brimmed hat
+
+Futuristic:
+  description: "Sleek and avant-garde; metallic finishes, asymmetrical cuts and tech-inspired details."
+  sample_items:
+    - Holographic jacket
+    - Structured boots
+    - Geometric sunglasses
+
+Steampunk:
+  description: "Victorian meets industrial; corsets, waistcoats, gears and leather."
+  sample_items:
+    - Goggles
+    - Pocket watch
+    - High-lace boots
+
+Casual:
+  description: "Comfortable and laid-back; T-shirts, jeans and sneakers with a relaxed fit."
+  sample_items:
+    - Graphic tee
+    - Denim jacket
+    - Canvas sneakers
