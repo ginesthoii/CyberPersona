@@ -1,0 +1,30 @@
+# DiSC personality styles and their primary focus.
+# Source: DiSC Profile (EverythingDiSC) ([www.discprofile.com](https://www.discprofile.com/what-is-disc#:~:text=does%20DiSC%20mean%3F%20DiSC%20is,on%20quality%2C%20accuracy%2C%20expertise%2C%20and))
+
+D:
+  name: "Dominance"
+  focus: "Results, action and assertiveness"
+  description: "Direct and decisive; emphasises control and achievement."
+  sources:
+    - "DiSC Profile ([www.discprofile.com](https://www.discprofile.com/what-is-disc#:~:text=does%20DiSC%20mean%3F%20DiSC%20is,on%20quality%2C%20accuracy%2C%20expertise%2C%20and))"
+
+i:
+  name: "Influence"
+  focus: "Relationships and persuasion"
+  description: "Enthusiastic and sociable; values optimism and collaboration."
+  sources:
+    - "DiSC Profile ([www.discprofile.com](https://www.discprofile.com/what-is-disc#:~:text=does%20DiSC%20mean%3F%20DiSC%20is,on%20quality%2C%20accuracy%2C%20expertise%2C%20and))"
+
+S:
+  name: "Steadiness"
+  focus: "Support and cooperation"
+  description: "Calm and patient; prioritises stability and sincerity."
+  sources:
+    - "DiSC Profile ([www.discprofile.com](https://www.discprofile.com/what-is-disc#:~:text=does%20DiSC%20mean%3F%20DiSC%20is,on%20quality%2C%20accuracy%2C%20expertise%2C%20and))"
+
+C:
+  name: "Conscientiousness"
+  focus: "Quality and accuracy"
+  description: "Analytical and detail‑oriented; strives for expertise and precision."
+  sources:
+    - "DiSC Profile ([www.discprofile.com](https://www.discprofile.com/what-is-disc#:~:text=does%20DiSC%20mean%3F%20DiSC%20is,on%20quality%2C%20accuracy%2C%20expertise%2C%20and))"
