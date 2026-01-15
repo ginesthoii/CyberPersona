@@ -13,8 +13,9 @@
 </p>
 
 ## What It Is
-- A small experiment in structuring personality for worldbuilding and writing.
-- Really, it’s just a tool for those moments when you want a character idea and your mind goes blank.
+- An experiment in structuring personality for worldbuilding and writing
+- Currently being upgraded to a more advanced "personality-engine" 
+- For now, it’s just a tool for those moments when you want a character idea and your mind goes blank.
 
 - This isn’t a test, and it’s not psychology in the clinical sense.
 - It’s a fiction-first generator that pulls from MBTI, Enneagram, and archetypal prompts to create coherent personality seeds.
