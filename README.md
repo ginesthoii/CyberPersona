@@ -24,29 +24,28 @@
 
 ## Why I made this
  I wanted a lightweight tool that:
-- Lives in plain text files (easy to edit, no database)
-- Runs locally, offline, without depending on anything fancy.
-- Generates personas that feel consistent enough to write from, but flexible enough to reshape.
+ - Lives in plain text files (easy to edit, no database)
+ - Runs locally, offline, without depending on anything fancy.
+ - Generates personas that feel consistent enough to write from, but flexible enough to reshape.
 
 ## What it does
   Randomly combines:
-	-	MBTI type (stack + temperament)
-  	- 	Enneagram type (core fear + desire)
-	-	Archetype prompt for story flavor
-	-	Light Big Five estimate (sliders for nuance)
-	-	Adds quick “hooks” like conflict style and growth edge.
-	-	Generates one persona at a time, or a batch of many.
-	-	Exports to JSON (structured) or Markdown (writer-friendly).
+  - MBTI type (stack + temperament)
+  - Enneagram type (core fear + desire)
+  - Archetype prompt for story flavor
+  - Light Big Five estimate (sliders for nuance)
+  - Adds quick “hooks” like conflict style and growth edge.
+  - Generates one persona at a time, or a batch of many.
+  - Exports to JSON (structured) or Markdown (writer-friendly).
 
 
 ## Inspiration
 
 This isn’t about telling you who a character is.
 It’s about nudging your imagination when the page is empty.
-	-	Need a side character? Generate one.
-	-	Want friction between two characters? Compare their conflict styles.
-	-	Building a whole guild, town, or court? Batch ten personas and see which ones catch your eye.
-    It’s scaffolding, not a box.
+- Need a side character? Generate one.
+- Want friction between two characters? Compare their conflict styles.
+- Building a whole guild, town, or court? Batch ten personas and see which ones catch your eye.
 
 <p align="center">
 <img width="750" height="750" alt="Image" src="https://github.com/user-attachments/assets/b6ee4b77-f5ac-42c8-b591-e1874c98f011" />
@@ -90,13 +89,14 @@ python main.py --count 10 --seed 123 --out personas.md
 This project is MIT licensed — use, remix, expand as you like.
 
 That said, a note on boundaries:
-	•	Not diagnostic. This is a writing tool, not a personality test for real people. Please don’t use it in workplaces, relationships, or anything clinical.
-	•	For storytelling. Treat outputs as scaffolding for characters, not boxes for people.
-	•	YAML-first. The data is meant to be edited, reshaped, and expanded. If something feels off, adjust it — that’s part of the process.
+- Not diagnostic. This is a writing tool, not a personality test for real people. Please don’t use it in workplaces, relationships, or anything clinical.
+- For storytelling. Treat outputs as scaffolding for characters, not boxes for people.
+- YAML-first. The data is meant to be edited, reshaped, and expanded. If something feels off, adjust it — that’s part of the process.
 
-The spirit here is simple: this is for writers, worldbuilders, and roleplayers who want a spark when the page feels cold. Nothing more, nothing less.
+<br>
 
-
+*The spirit here is simple: this is for writers, worldbuilders, and roleplayers who want a spark when the page feels cold. Nothing more, nothing less.*
+	
 
 
 
